@@ -1,7 +1,16 @@
-AIM: To implement an application using ES6 features for fetching and displaying weather information.
-DESCRIPTION: The weather app fetches data from the OpenWeatherMap API using promises and async/await to handle asynchronous code.
-Source Code:
+🌦️ Weather Forecast
 
+A simple weather forecast application that displays weather information using the OpenWeatherMap API.
 
-1. readmeindexhtml.md
-2. approachofexperiment.md
+🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- OpenWeatherMap API
+
+✨ Features
+
+- Real-time weather information
+- Simple and user-friendly interface
+- Dynamic weather data display
